@@ -1,0 +1,6 @@
+(Main.js)
+if (num === 0) {
+return false;
+if vocal {
+    return vocal
+    
